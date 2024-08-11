@@ -1,4 +1,4 @@
-# Simple Yet Effective Spatio-Temporal Prompt Learning #
+# Efficient Prompt Learning for Traffic Prediction #
 This is the implementation of Simple Yet Effective Spatio-Temporal Prompt Learning in the following paper:
 
 ## Requirements ##
