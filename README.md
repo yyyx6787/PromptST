@@ -1,5 +1,5 @@
 # Efficient Prompt Learning for Traffic Prediction #
-This is the implementation of Simple Yet Effective Spatio-Temporal Prompt Learning in the following paper:
+This is the implementation of Efficient Prompt Learning for Traffic Prediction in the following paper:
 
 ## Requirements ##
 Pytorch = 1.12.0 with cuda 11.3
