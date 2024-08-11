@@ -5,7 +5,7 @@ This is the implementation of Simple Yet Effective Spatio-Temporal Prompt Learni
 Pytorch = 1.12.0 with cuda 11.3
 
 ## Data ##
-Point-based traffic data includes PeMSD03, PeMSD04, PeMSD07, PeMSD08 and PeMS-Bay. Grid-based traffic data includes NYCTaxi, TDrive and ChIBike.  Crime data includes data of New York City and Chicago.
+Traffic data includes PeMSD03, PeMSD04, PeMSD07, PeMSD08 and PeMS-Bay. 
 
 
 
